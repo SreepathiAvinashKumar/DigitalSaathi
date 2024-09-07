@@ -2,7 +2,7 @@
 
 [![Digital Assistant for Legal Awareness | Legal Saathi | SIH 2023 | SIH-1283 | Code Cachers](https://img.youtube.com/vi/_y2TjBJeH5Y/0.jpg)](https://www.youtube.com/watch?v=_y2TjBJeH5Y)
 
-[![FlowChart](https://www.canva.com/design/DAFwfeR7WEQ/t38Su7rCgu2xLZ3Hd1mRDQ/edit?utm_content=DAFwfeR7WEQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[![FlowChart](https://drive.google.com/uc?id=1g4EQZv5yEb7jap2VN8f-8RFxYzbWdURm))]
 
 **Digital Assistant for Legal Awareness and Designing a KYR framework in India**
 
