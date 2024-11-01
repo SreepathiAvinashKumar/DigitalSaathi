@@ -5,9 +5,7 @@
 
 **Digital Assistant for Legal Awareness and Designing a KYR framework in India**
 
-**Problem:** 
-
-Access to legal information and awareness is a challenge for many people in India, especially those who are not literate or from marginalized communities. A user-friendly and easily accessible platform for legal awareness can help address this challenge and improve legal awareness and access to justice for all citizens.
+   Access to legal information and awareness is a challenge for many people in India, especially those who are not literate or from marginalized communities. A user-friendly and easily accessible platform for legal awareness can help address this challenge and improve legal awareness and access to justice for all citizens.
 
 The challenge is to develop a digital assistant that can provide legal information and guidance to people in a user-friendly manner. The digital assistant should be able to converse in multiple languages and provide information in a concise and easy-to-understand manner. The digital assistant should be able to address common legal queries and provide information on various legal topics.
 
