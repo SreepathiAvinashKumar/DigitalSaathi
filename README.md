@@ -9,7 +9,7 @@
 
 Access to legal information and awareness is a challenge for many people in India, especially those who are not literate or from marginalized communities. A user-friendly and easily accessible platform for legal awareness can help address this challenge and improve legal awareness and access to justice for all citizens.
 
-The challenge is to develop a digital assistant that can provide legal information and guidance to people in a user-friendly manner. The digital assistant should be able to converse in multiple languages and provide information in a concise and easy-to-understand manner. The platform should be accessible through various devices, including smartphones, tablets, and desktop computers. The digital assistant should be able to address common legal queries and provide information on various legal topics.
+The challenge is to develop a digital assistant that can provide legal information and guidance to people in a user-friendly manner. The digital assistant should be able to converse in multiple languages and provide information in a concise and easy-to-understand manner. The digital assistant should be able to address common legal queries and provide information on various legal topics.
 
 The key features of a successful digital assistant for legal awareness include:
 
@@ -142,15 +142,10 @@ Llama-2-7B : LLMA model used to give responses
 
 LangChain, Hugging Face, ChromaDB,
 
-Optical Character Recognition : used to read character from pdf to    make query.
+Optical Character Recognition : used to read character from pdf to make query.
 
 **Cloud**:  Microsoft Azure
 
-**Dependencies**: We have two major dependencies for this project, 
-
-one is cloud with a GPU to run this large language model and
-
- from user side it is required to have internet connection.
 
  **![][image1]**
 
